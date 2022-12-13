@@ -1,0 +1,24 @@
+procedure a begin
+
+def a,b,c,d,p,df;
+
+if(a<b)
+c=df;
+begin
+
+if(a+b*3.14*(c-d+df)/2.0 < 5 || c - d>=d +df)
+begin
+p-=df;
+a+=c;
+end
+
+else
+begin
+c=1e;
+d=3*c;
+end
+
+d=c*12.3+6/(5.0-3);
+end
+
+end.

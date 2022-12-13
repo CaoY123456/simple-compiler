@@ -4,9 +4,10 @@
 using namespace std;
 
 int main() {
-    // 手动添加测试代码文件的路径，
-    // 我本地测的时候不知为何相对路径不行，只能是绝对路径
-    Lexical_analyzer L("input_1.txt");
+    // test-cases里放置的是用于测试的代码文件夹
+    string filename = "input_17.txt";
+    string dir = "test-cases\\";
+    Lexical_analyzer L(dir + filename);
     L.analyse();
 
     L.show_inf();

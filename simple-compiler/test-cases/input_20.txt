@@ -1,0 +1,50 @@
+procedure a begin
+
+def a,b,c;
+//a=3.1415926;
+if(a<b&& a>c + b+5+6+7+8)
+a=1;
+else
+b=2;
+
+while(a<b && a< c&& b<c || a>c)
+begin
+if(a<c && a+2*(4+5)/6>= b)
+begin
+a=c+c+b*2;
+b=1e+3;
+end
+else
+begin
+a=a+567;
+end
+end
+
+/*begin
+a*=c;
+c=a+b;
+end*/
+
+/*if(a+c<b)
+a=1;
+else
+begin
+c=a*b;
+c=a/b;
+end*/
+ 
+
+/*if(a<b && a>c || a>1 && b>=a)
+begin
+a=c;
+end
+
+//a=234;
+else
+begin
+b=c;
+end
+
+c*=a;*/
+
+end.

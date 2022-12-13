@@ -1,0 +1,3 @@
+procedure a begin
+if(a+b-c*d/f*k<d+c-f*r/h)c *=k;
+end.

@@ -1,0 +1,21 @@
+procedure e begin
+
+def a,b;
+
+if(3-a<b*(a-4)/3)
+begin
+a=10;
+b=12;
+a+=b;
+
+begin
+a-=b;
+def m;
+a*=m+b;
+
+end
+end
+else
+a-=b;
+
+end.

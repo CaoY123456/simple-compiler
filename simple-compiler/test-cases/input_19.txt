@@ -1,0 +1,25 @@
+procedure a begin
+
+def a,b;
+
+while(a<b)
+begin
+a=1;
+a+= b;
+b*=a;
+a/=b;
+end
+
+if(a<1)
+a=b;
+else
+begin
+a=3;
+b+=a;
+begin
+b=4;
+end
+end
+
+
+end.

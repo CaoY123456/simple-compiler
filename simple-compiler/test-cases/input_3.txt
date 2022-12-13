@@ -1,0 +1,43 @@
+procedure a begin
+
+def a;
+end
+
+procedure     begin
+ L = d
+def c;
+end.
+
+procedure dsfdhfkj begin
+
+def c;
+d=s;
+
+if(a) c-=begin;
+
+if(a<c)call F;
+
+if(a+b-c*d/f*k<d+c-f*r/h)c *=k;
+else 
+begin
+
+def c;
+
+end
+
+end.
+
+
+
+procedure d_1 begin
+
+end.
+
+
+
+procedure _d begin
+
+c=2*(cd-e+1.23*5);
+
+end.
+

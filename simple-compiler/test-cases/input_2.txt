@@ -1,0 +1,14 @@
+procedure b begin
+ def c;
+
+	begin
+	call F;
+	if(a<k&&b>=s)
+	c +=L;
+	else c*=k;
+
+	while(c<L)
+	if(a>g)def c;
+	end
+
+end.

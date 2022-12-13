@@ -1,0 +1,9 @@
+procedure a begin
+
+def a,b;
+
+begin
+
+a=b;
+end
+end.

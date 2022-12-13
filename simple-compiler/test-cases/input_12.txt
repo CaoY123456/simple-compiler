@@ -1,0 +1,18 @@
+procedure m begin
+def a,b,c;
+	a=1;
+	b=2;
+	c=999;
+
+	if(a+b<c)
+	begin
+		a=a+b;
+		b=b+a;
+	end
+	else
+		c=1000;
+
+	while(c>500 || c<2000)
+		c= c-500;
+	b=3;
+end.

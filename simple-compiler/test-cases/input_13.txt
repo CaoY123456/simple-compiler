@@ -1,0 +1,12 @@
+procedure b begin
+
+def a,b,c;
+
+if(a+b<c)
+	begin
+		a=a+b;
+		b=b+a;
+	end
+	else
+		c=1000;
+end.

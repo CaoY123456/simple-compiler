@@ -137,9 +137,6 @@
     <ClInclude Include="Lexical_analyzer.h" />
     <ClInclude Include="Quaternion.h" />
   </ItemGroup>
-  <ItemGroup>
-    <Text Include="..\..\..\VS19Community\VS_practice\Homework_of_bianyi_1\input_1.txt" />
-  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>

@@ -1,0 +1,28 @@
+procedure a begin
+
+def a,b,c,d;
+begin
+if(a<b)
+begin
+if(a<c)
+if(b<c)
+a+=c;
+end
+else
+a+=b;
+end
+
+k=1;
+/*if(a<b+c*d)
+begin
+begin
+a=b+c-c+a;
+b=c-a+b-b;
+end
+c=d;
+end
+else
+begin
+b=9+a+c+b-a;
+end*/
+end.

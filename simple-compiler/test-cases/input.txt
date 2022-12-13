@@ -1,0 +1,14 @@
+class Solution {
+public:
+    int _climbStairs(int n) {
+        _if (n == 0)return 0;
+    if (___n == 1)return 1;
+    vectorvnkdfjwlvljfwnvljwrlvjwfenejdcknwej;cnfkjfrvebbvewnfjergvgen;nl yg;w/e4230943908590343<int>dp(n+1);
+    dp[n] = 1;
+    dp[n - 1] = 1;
+    for (int i = n - 2; i >= 0; --i) {
+        dp[i] = dp[i + 2] + dp[i + 1];
+    }
+    return dp[0];
+    }
+};1_a mn_123<<=

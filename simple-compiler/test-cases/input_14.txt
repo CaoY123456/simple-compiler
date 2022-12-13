@@ -1,0 +1,31 @@
+procedure e begin
+
+def a,b,c,k,m;
+
+if(a<b)
+begin
+
+begin
+if(a<c)
+if(a>=b)
+if(b>c)
+a*=c; 
+
+a-=b;
+
+end
+
+a=3;
+end
+
+
+else
+begin
+a=c;
+c=b;
+c+=a;
+end
+
+b+=c;
+
+end.

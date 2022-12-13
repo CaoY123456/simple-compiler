@@ -1,0 +1,22 @@
+procedure e begin
+
+def a,b,c,k,m;
+
+if(a+3*b-5<k-6*(a+m)-4)
+begin
+begin
+a-=b;
+b=3*(7-1e-12);
+
+end
+//a=3;
+end
+
+else
+begin
+a=c;
+c=b;
+c+=a;
+end
+
+end.

@@ -1,0 +1,13 @@
+procedure c begin
+
+def a,b,c,dfdg,fsdf;
+
+while(a<v+d-9*e+234)
+begin
+a=b;
+c=dfdg;
+begin
+c=4*5+4+8-9;
+end
+end
+end.

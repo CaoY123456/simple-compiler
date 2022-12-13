@@ -1,0 +1,126 @@
+/*procedure a begin
+def a,b,c,d;
+if(a>b+c)
+begin
+if(a-c-d*b+3.1415926<a && b > c || c < d)
+a=3*4+5/(b-2+4);
+end
+else
+a=c+d-2*4+9;
+end.*/
+
+/*procedure b begin
+
+def a,b,c,d,e,f,g,k;
+if(a+b*c/(d+e-f)<c-g+f && a-c<d-g || a < b && c >= g)
+begin
+if(b+f-e*e>f+g)
+c=k+6*(8*e+g-f);
+else
+begin
+a*=c+b;
+c*=b+a;
+end
+end
+
+else
+begin
+e=2e+3/(5+c-a);
+a=d;
+end
+
+end.*/
+
+/*procedure c begin
+def a,b,c,d,e,f,g,h;
+if(a<b&&c>d)
+begin
+e=f;
+end
+else
+g=h;
+end.*/
+
+procedure d begin
+def a,b,c,d,e,f,g,h,i,j,k;
+
+a=a+c*(k-h*i)/5;
+
+while(a>=c)
+begin
+while(a<b && d + e - f * k>j || j>=h)
+begin
+c=d*i+j-(5+k-a*b)-c;
+end
+end
+end.
+
+/*procedure e begin
+def a,b,c,d,e,f,g,h,i,j,k;
+
+while(c<d)
+begin
+while(a<b)
+begin
+c=1;
+end
+end
+end.*/
+
+/*procedure f begin
+def a,b,c,d,e,f,g,h,i,j,k,m,n,p,q,r,s,t;
+
+a=1;
+
+//while(g>=h)
+while(a<=b && c+d*(e+f-q*r/s)/k-  2e < d + f)
+begin
+if(f+g< d+c-f && e>=a+b)
+begin
+while(c>d&&a<=c)
+begin
+if(a-d*e*(f-k)<c && c>=k || q<r||m+n-c>d-f)
+begin
+while(a<b && c > d || e  < f && g > h)
+while(h<= i || i>=k && k> j)
+while(a<>d)
+begin
+a=c+d-f*(k-b);
+c=d*a+b;
+begin
+d=2*(3.1415926+c/4)/2;
+end
+k=g;
+k+=c-d*7-f;
+end
+
+end
+
+
+begin
+c=d+f+2-c;
+end
+end
+end
+end
+end.*/
+
+/*procedure g begin
+
+def a,b,c,d,e,f,g;
+
+while(a<b || b>c && c>d)
+while(e>f || f >a)
+a=1;
+
+end.*/
+
+/*procedure h begin
+def a,b,c,d,e,f,g,h,i,j,k,m,n,p,q,r,s,t;
+
+while(a<b)
+if(c>d)
+while(m<n)
+b=m+n-s*(r - t)/q+g/h;
+
+end.*/

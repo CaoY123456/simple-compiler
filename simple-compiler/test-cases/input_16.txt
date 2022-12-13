@@ -1,0 +1,23 @@
+procedure a begin
+def a,b,c;
+	a=1;
+	b=2;
+	c=1+2*3+(4+5)*6;
+
+	if (a+b<c)
+	begin
+		a=a+b;
+		b=b+a;
+	end
+	else
+		c=1000;
+
+	while (c>500 && c<2000 && c<>12 || c>4)
+	begin
+		if (a>3)
+			c = c+500;
+		if (c<4)
+			if (a>b || c<1)
+				a=1;
+	end
+end.

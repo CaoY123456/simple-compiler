@@ -1,0 +1,13 @@
+procedure d begin
+
+def a,b;
+char m,n,r;
+
+a= b;
+
+m+=n+r*a-b;
+
+def j;
+j=2*(3+4*5)-7+10*m;
+
+end.
