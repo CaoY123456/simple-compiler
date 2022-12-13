@@ -4,7 +4,9 @@
 using namespace std;
 
 int main() {
-    Lexical_analyzer L("input_17.txt");
+    // 手动添加测试代码文件的路径，
+    // 我本地测的时候不知为何相对路径不行，只能是绝对路径
+    Lexical_analyzer L("input_1.txt");
     L.analyse();
 
     L.show_inf();
@@ -20,7 +22,6 @@ int main() {
     Q.construct();
 
     Q.show_inf();
-
 
     return 0;
 }
